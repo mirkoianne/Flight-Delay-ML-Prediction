@@ -13,7 +13,7 @@ The project follows a rigorous machine learning pipeline in R:
 
 ## Models & Results
 * 1. Model Comparison: Naive Bayes and GLM emerged as the top models based on ROC metrics. Naive Bayes was selected as the definitive winner after evaluating Lift curves, as it correctly predicted a higher percentage of delayed flights in the top deciles.
-* 2. Final Classification (Naive Bayes): When applied to the new score dataset, the model achieved a high sensitivity of 0.9882, accurately classifying the positive class with only 7 errors.
+* 2. Final Classification: When applied to the new score dataset, the winning model (Naive Bayes) achieved a high sensitivity of 0.9882, accurately classifying the positive class with only 7 misclassifications.
 
 ## Repository Structure & Authors
 * `data/`: Contains the original flight dataset.
