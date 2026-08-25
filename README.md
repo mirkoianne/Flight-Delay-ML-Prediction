@@ -17,7 +17,7 @@ The project follows a rigorous machine learning pipeline in R:
 
 ## Repository Structure & Authors
 * `data/`: Contains the original flight dataset.
-* `src/`: "R scripts for the data pre-processing and machine learning pipeline.
+* `src/`: R script containing the data preprocessing and machine learning models.
 * `docs/`: Full project report detailing the step-by-step statistical analysis and plots.
 
 ## Authors:
