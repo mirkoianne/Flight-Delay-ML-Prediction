@@ -21,6 +21,6 @@ The project follows a rigorous machine learning pipeline in R:
 * `docs/`: Full project report detailing the step-by-step statistical analysis and plots.
 
 ## Authors:
-*Mirko Iannelli 
-*Christian Pettinato
-*Riccardo Scampini
+* Mirko Iannelli 
+* Christian Pettinato
+* Riccardo Scampini
